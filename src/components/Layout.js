@@ -5,6 +5,7 @@ import LoginForm from './LoginForm'
 import ChatContainer from './chats/ChatContainer'
 
 const socketUrl = "/"
+//const socketUrl = "http://localhost:3231"
 export default class Layout extends Component {
 	
 	constructor(props) {
