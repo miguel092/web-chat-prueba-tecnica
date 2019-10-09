@@ -14,4 +14,4 @@ Esta práctica está basada en la siguiente clase: https://www.youtube.com/playl
 
 
 Esta aplicación también está disponible en un servidor de producción desde Heroku
-El enlace es: https://radiant-thicket-78828.herokuapp.com/ 
+El enlace es: https://radiant-thicket-78828.herokuapp.com/  
