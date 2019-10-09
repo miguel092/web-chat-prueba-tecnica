@@ -4,7 +4,7 @@ Esta práctica está basada en la siguiente clase: https://www.youtube.com/playl
 
 ###Instrucciones para iniciar la aplicación desde cualquier computadora con NodeJS
 
-1.Se debe descargar la aplicación del repositorio: 
+1.Se debe descargar la aplicación del repositorio: https://github.com/miguel092/web-chat-prueba-tecnica 
 
 2.Una vez descargada, desde la terminal se ingresa a la ruta donde se almacenó y se ejecuta el siguiente comando
 ` npm install `
@@ -13,3 +13,5 @@ Esta práctica está basada en la siguiente clase: https://www.youtube.com/playl
 ` npm run dev `
 
 
+Esta aplicación también está disponible en un servidor de producción desde Heroku
+El enlace es: https://radiant-thicket-78828.herokuapp.com/ 
