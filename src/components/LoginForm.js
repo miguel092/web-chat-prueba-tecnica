@@ -45,7 +45,7 @@ export default class LoginForm extends Component {
 		return (
 			<div className="login-container">
 				<h2 className="header">Web-Chat: Bienvenido</h2>
-				<Form onSubmit={this.handleSubmit} onTouchStart={this.handleSubmit} className="login-form">
+				<Form onSubmit={this.handleSubmit} className="login-form">
 					<Form.Group controlId="formLogin">
 						<Form.Label>Nombre de usuario</Form.Label>
 						<Form.Control type="text"
