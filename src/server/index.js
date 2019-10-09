@@ -11,6 +11,10 @@ const SocketManager = require('./SocketManager')
 app.use(express.static(__dirname + '/../../build'))
 io.on('connection', SocketManager)
 
-server.listen(PORT, () => {
+server.listen(PORT, (err) => {
+	if(err){
+		console.log("Error al iniciar el servidor ")
+		throw err;
+	}
 	console.log("Connected to port:" + PORT);
 }) 
