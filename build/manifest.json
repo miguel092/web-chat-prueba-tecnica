@@ -1,0 +1,6 @@
+{
+  "short_name": "Web Chat",
+  "name": "Apicacion Chat Web para evaluacion",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
