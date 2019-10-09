@@ -67,7 +67,7 @@ export default class MessageInput extends Component {
 			<div className="message-input" >
 				<Form onSubmit={this.handleSubmit} >
 					<Row>
-						<Col xs={8} md="10">
+						<Col xs={5} md="10">
 							<Form.Control
 								id="message"
 								ref={"messageinput"}
